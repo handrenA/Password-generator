@@ -11,6 +11,9 @@ You can choose between the difficulty of _easy_, _medium_ or _hard_ which the cr
 The user can also choose to customize the password by combining upper and/or lowercases with digits and special characters.
 
 ## **Saving**
-Once the user generate a password the program will then ask what the of the password should be, whatever it should be used for twitter or netflix i.e. 
+Once the user generates a password the program will then ask what the name of the password should be, whatever it should be used for twitter or netflix i.e. 
 The data is then saved into a DataFrame which is created by using Pandas. The data is connected to a CSV-file. 
-The user can any time find its passwords in the CSV-file. If the user decides to delate all of the password they can just simply clear the CSV-file in the program.
+The user can any time find its passwords in the CSV-file. If the user decides to delate all of the passwords they can just simply clear the CSV-file in the program.
+
+## **Search in DataFrame**
+More to add.
